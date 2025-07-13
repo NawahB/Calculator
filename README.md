@@ -1,5 +1,7 @@
-Nawah
-922684526
-Nbahtani@sfsu.edu
+CSC 413 - Project Two - Calculator
 
-This Java calculator evaluates mathematical expressions using correct operator precedence. It features a GUI built allowing users to input and solve expressions.
+Student Name : Nawah Bakhtani
+
+Student ID : 922684526
+
+Student Email : nbakhtani@sfsu.edu
